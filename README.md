@@ -42,7 +42,7 @@ In above graph, we can understand which feature might be good for classification
   
 In `Logistic_featureselect_PCA.py` file, you can draw the remaining 20 features.   
 
-### Heat map 
+### Heatmap 
 To understand the correlations between all features, we want to use heatmap. 
 <p align="center">
   <img width="800" height="600" src="https://github.com/phylliskaka/Breast-Cancer-Diagnostic-Prediction/blob/master/readmeimage/data_corr.png">          
